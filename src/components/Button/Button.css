@@ -1,0 +1,26 @@
+.but {
+    height: 100px;
+    width: 100px;
+    background: rgb(83, 83, 255);
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    outline: none;
+    animation: move 1.5s ease infinite;
+    transition: 0.3s;
+}
+.but-2{
+      height: 100px;
+    width: 100px;
+    background: rgb(255, 0, 0);
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    border: none;
+    outline: none;
+    animation: move 1.5s ease infinite;
+    transition: 0.3s;
+    margin-left:100px;
+}
+
